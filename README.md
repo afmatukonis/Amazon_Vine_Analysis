@@ -71,16 +71,20 @@ The four dataframes were then written to the tables we created using AWS.
 They appear as these:
 
 customers_table:
+
 ![Screenshot 2023-03-23 at 1 09 15 AM](https://user-images.githubusercontent.com/118235205/227154952-fd879842-1bc8-4b1a-b236-1a7bb964c62e.png)
 
 
 product_table:
+
 ![Screenshot 2023-03-23 at 1 09 49 AM](https://user-images.githubusercontent.com/118235205/227154990-8555bc76-c554-45eb-b9a2-7f7cdb75a20c.png)
 
 review_id_table:
+
 ![Screenshot 2023-03-23 at 1 10 22 AM](https://user-images.githubusercontent.com/118235205/227155144-e50649db-d756-4825-8041-7376f70b0293.png)
 
 vine_table:
+
 ![Screenshot 2023-03-23 at 1 11 00 AM](https://user-images.githubusercontent.com/118235205/227155217-7b82c693-3d3a-4ede-9849-538c762dee63.png)
 
 Finally in pgAdmin we exported the vine_table as vine_table.csv for different Pandas calculations.
